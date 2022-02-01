@@ -23,6 +23,7 @@ public class Q03 {
         System.out.println("Carpim: " +(num1*num2));
         System.out.println("Bolum: " + (num1/num2));
 
+        
         sc.close();
 
     }
