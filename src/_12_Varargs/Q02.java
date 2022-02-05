@@ -23,6 +23,7 @@ public class Q02 {
 
         }
         System.out.println("sonuc :"+carpilacakSayi*toplam);
+        
     }
 
 }
