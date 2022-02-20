@@ -7,6 +7,7 @@ public class Q04 {
 
         // Bugüne göre 100 gün sonra hangi gün olduğunuz yazdırınız.
         // pazartesi
+        
         Scanner scan = new Scanner(System.in);
         System.out.print(
                 "Pazartesi: 1 \nSalı: 2 \nÇarşamba: 3 \nPerşembe: 4 \nCuma: 5 \nCumartesi: 6 \nPazar: 7 \nLütfen haftanın kaçıncı gününde olduğunuzu yazın: ");
