@@ -6,11 +6,11 @@ public class Q05 {
 // Aşağıdaki şekilde çıktı veren programı print içerisinde
 // sadece bir tane # kullanarak yazıdırınız
 
-//            #####
-//            #####
-//            #####
-//            #####
-//            #####
+//            #######
+//            #######
+//            #######
+//            #######
+//            #######
 
         for(int satir=0;satir<5;satir++) // satır kontrolu 1 ile 6 da olurdu
         {
